@@ -1,0 +1,20 @@
+header {
+    background-color: darkolivegreen;
+    text-align: center;
+    color:aliceblue;
+}
+main {
+    background-color: lightgrey;
+    margin: 1em;
+}
+body {
+    background-image: url("record.png");
+    background-size: calc(25% - 100px) auto; 
+    margin: 0;
+}
+.twdy {
+    color: green;
+    font-size: large;
+    background-color: aliceblue;
+    text-align: center;
+}
