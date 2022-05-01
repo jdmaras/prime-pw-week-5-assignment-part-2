@@ -9,7 +9,7 @@ main {
 }
 body {
     background-image: url("record.png");
-    background-size: calc(25% - 100px) auto; 
+    background-size: auto 20%; 
     margin: 0;
 }
 .twdy {
